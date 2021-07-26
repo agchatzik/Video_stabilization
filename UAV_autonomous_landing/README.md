@@ -34,25 +34,25 @@ Real-world trials demonstrate successful landing in unknown and complex terrains
 - **Landing Point Detection Overview**: The constructed map-metrics lead toa landing-probability map using a Bayes method.<br /> Landing candidate points areextracted  from  the  landing-probability  map  and  are  grouped  into  clusters.  Thecentroid of the <br />biggest cluster (blue cluster) is the selected landing site.
 
 <p align="center">
-<img src="include/mm6.png" width="310" height="600" >
+<img src="include/mm6.png" width="350" height="700" >
 </p>
 
 - **Illustrations of real world trial** in dense wooded area. We demon-strate the resulting total score-image of the scene, <br />the detected landing point onthe image frame and the landing position of the UAV on the world frame.
 
 <p align="center">
-<img src="include/paper3.png" width="500" height="250" >
+<img src="include/paper3.png" width="600" height="300" >
 </p>
 
 - A sample of the **dataset**.
 
 <p align="center">
-<img src="include/dataset.png" width="300" height="300" >
+<img src="include/dataset.png" width="350" height="350" >
 </p>
 
 - The  **accuracy**  of  safe  landing  site  detection  as  a  function  of  the  UAV’saltitude. In case A (blue), the flatness and the steepness<br /> map-metrics are utilized.In case B (orange) we show the accuracy improvement by adding depth-varianceand inclination map<br /> metrics.
    
 <p align="center">
-<img src="include/alt1.png" width="500" height="500" >
+<img src="include/alt1.jpg" width="500" height="400" >
 </p>
 
 
