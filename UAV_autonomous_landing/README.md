@@ -20,7 +20,7 @@ In our configuration we used DJI Matrice 100 with mounted DJI guidance system. F
 
 1. Build DJI [Guidance SDK](https://github.com/dji-sdk/Guidance-SDK-ROS)
 2. Build DJI [Onboard SDK](https://github.com/dji-sdk/Onboard-SDK)
-3. Build [ORB_SLAM2][https://github.com/raulmur/ORB_SLAM2] with ROS.
+3. Build [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) with ROS.
 4. To build with ROS clone the repository into `catkin_ws`.
 
 ```
